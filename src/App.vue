@@ -1,5 +1,6 @@
 <template>
   <h1>{{ title }}</h1>
+  <h3>This is a practice webpage with Vue</h3>
   <h2>youkoso</h2>  
   <input type="text" ref="name">
   <button @click="handleClick">Click Me</button>
